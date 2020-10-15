@@ -78,7 +78,6 @@ input, textarea {
   border: 1px solid #dee7ec;
 }
 
-
 /* Add CSS for contact-submit */
 .contact-submit {
   background-color: #dee7ec;
@@ -98,7 +97,7 @@ input, textarea {
 }
 
 .footer-list {
-  float: right;
+ float: right;
 }
 
 .footer-list li {
