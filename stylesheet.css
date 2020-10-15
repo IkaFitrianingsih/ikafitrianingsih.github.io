@@ -3,12 +3,6 @@ body {
   background-color: #ffe4e1;
   li {
   list-style: none;
-  float: right;
-  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
-  padding-top: 33px;
-  padding-bottom: 33px;
-  padding-left: 20px;
-  padding-right:20px;
 }
 
 li {
