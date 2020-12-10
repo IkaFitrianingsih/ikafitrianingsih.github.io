@@ -80,28 +80,8 @@ input, textarea {
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
-} 
-
-.footer {
-  background-color: #2f5167;
-  color: #fff;
-  height: 120px;
-  padding: 40px;
 }
-
-.footer-logo {
-  float: left;
-  font-size: 32px;
-}
-
-.footer-list {
- float: right;
-}
-
-.footer-list li {
-  padding-bottom: 20px;
-}
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1500px) {
     aside {
         margin-top: 20px;
         width: 100%;
