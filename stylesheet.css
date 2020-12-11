@@ -55,7 +55,6 @@ li {
 .contents-item {
   float: left;
   margin-right: 40px;
-  object-position: center;
 }
 
 .contents-item p {
@@ -66,6 +65,7 @@ li {
 .contact-form {
   padding-top: 100px;
 }
+
 /* Add CSS for <input> and <textarea> tags */
 input, textarea {
   width: 400px;
@@ -80,7 +80,7 @@ input, textarea {
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
-}
+} 
 @media only screen and (max-width: 1500px) {
     aside {
         margin-top: 20px;
